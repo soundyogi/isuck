@@ -1,24 +1,40 @@
-# passwords
+# You suck at passwords
+> "your password may not contain more than 12 letters"
 
-    "your password may not contain more than 12 letters"
+---
 
-The _only_ thing that makes a password secure is its length.
-Thats it. Simple.
+A lot of your passwords probably suck and its not even your fault.
+
+What makes a password safe against bruteforcing?
+The _only_ thing that matters is its length.
+Thats it. 
+Simple.
 
     PASSWORDPASSWORDPASSWORD 
 
 is a better password than 
 
     !mydog1234jesus
+    
+Or how about something you can remember easy like:
+    
+    <sitename><year of birth><password>
 
-I know it is not your fault, but if A site does not allow a longer password
-please write them hatemail.
+Please, Please, Please spam hatemail (about password restriciton) to any site that enforces something like this
 
-Dont believe me? here is what xkcd says:
+And Please help collect these sites so we can shun them in public :D
+
+
+List of sites that suck:
+
+
+    - http://conrad.de
+
+
+Thank You.
+
 
 ![xkcd](http://imgs.xkcd.com/comics/password_strength.png)
+<sup><a>xkcd.org</a></sup>
 
-
-    List of sites that suck:
-
-    ????.com
+---
