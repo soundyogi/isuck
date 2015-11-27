@@ -9,13 +9,14 @@
     "sync": "node_modules/browser-sync/bin/browser-sync.js start --server --port='8080' --files='**.js'",
     "minify": "node node_modules/browserify/bin/cmd.js main.js | uglifyjs -o bundle.js --compress --mangle",
     "dev": "npm run server & npm run js",
-    "server": "node_modules/http-server/bin/http-server -p 8080 --cors",
+    "server": "node_modules/http-server/bin/http-server -p 30000 --cors",
     "prod": "npm run minify && npm run server"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "github-markdown-css": "^2.1.0",
+    "http-server": "^0.8.5",
     "marked": "^0.3.5",
     "request": "^2.65.0",
     "rlite-router": "^1.1.1"
