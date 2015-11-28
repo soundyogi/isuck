@@ -2,6 +2,7 @@
 > "your password may not contain more than 12 letters"
 
 ---
+![picard](/topic/facepalm.jpg)
 
 A lot of your passwords probably suck and its not even your fault.
 

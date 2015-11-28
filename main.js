@@ -6,6 +6,7 @@ window.onload = function(){
   if(location.hash === "") return index()
   
   var hash = location.hash.split("#")
+  document.title = hash[0]
   
   
   request("http://46.101.247.195:30000/topic/"+hash[1]+".md", function(err,b,data){
